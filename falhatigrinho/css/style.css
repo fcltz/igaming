@@ -1,5 +1,8 @@
 html {overflow:hidden;margin-right:0 !important}
 
+body {
+    overflow-x: hidden;
+}
 
 /* This is for tablet display */
 @media (min-width: 768px){
